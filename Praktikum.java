@@ -1,1 +1,3 @@
-public static void Prakticum
+public static void Prakticum(string[] args){
+public static void main
+}
